@@ -68,12 +68,12 @@
 #define SRTF_SORT 2
 
 //input and output files
-#define FCFS_INPUT "fcfs.txt"
-#define SJF_INPUT "sjf.txt"
-#define SRTF_INPUT "srtf.txt"
-#define FCFS_OUTPUT "fcfs_results.txt"
-#define SJF_OUTPUT "sjf_results.txt"
-#define SRTF_OUTPUT "srtf_results.txt"
+#define FCFS_INPUT "test_inputs/fcfs.txt"
+#define SJF_INPUT "test_inputs/sjf.txt"
+#define SRTF_INPUT "test_inputs/srtf.txt"
+#define FCFS_OUTPUT "test_results/fcfs_results.txt"
+#define SJF_OUTPUT "test_results/sjf_results.txt"
+#define SRTF_OUTPUT "test_results/srtf_results.txt"
 
 /**
  * Using a double ended Queue
